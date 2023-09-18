@@ -14,7 +14,7 @@ The dataset used in this project contains the following columns:
 - `Na_to_K`: Sodium-to-potassium ratio.
 - `Drug`: The target variable representing the prescribed drug.
 
-### INTEL DEVELOPERS CLOUD SERVICE
+### INTEL DEVELOPERS CLOUD SERVICE ENV
 
 Here , we used IDC service ; That is Intel® Max Series GPU (PVC) on 4th Gen Intel® Xeon® processors - 1100 series (4x) (Batch Processing/Scheduled access) to make our project to run in pytorch_xpu Environment.
 
